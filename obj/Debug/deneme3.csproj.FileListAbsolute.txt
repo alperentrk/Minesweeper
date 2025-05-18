@@ -1,0 +1,12 @@
+C:\Users\alper\source\repos\deneme3\bin\Debug\deneme3.exe.config
+C:\Users\alper\source\repos\deneme3\bin\Debug\deneme3.exe
+C:\Users\alper\source\repos\deneme3\bin\Debug\deneme3.pdb
+C:\Users\alper\source\repos\deneme3\obj\Debug\deneme3.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\deneme3\obj\Debug\deneme3.Form1.resources
+C:\Users\alper\source\repos\deneme3\obj\Debug\deneme3.Properties.Resources.resources
+C:\Users\alper\source\repos\deneme3\obj\Debug\deneme3.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\deneme3\obj\Debug\deneme3.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\deneme3\obj\Debug\deneme3.exe
+C:\Users\alper\source\repos\deneme3\obj\Debug\deneme3.pdb
+C:\Users\alper\source\repos\deneme3\obj\Debug\deneme3.Form2.resources
+C:\Users\alper\source\repos\deneme3\obj\Debug\deneme3.SkorForm.resources
